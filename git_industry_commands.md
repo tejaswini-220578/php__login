@@ -35,3 +35,6 @@ Example:
 user.name=tejaswini
 user.email=tejaswini@gmail.com
 core.editor=code
+
+screenshot proof:
+![username screenshot](image/image.png)
